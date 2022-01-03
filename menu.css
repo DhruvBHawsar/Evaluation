@@ -1,0 +1,21 @@
+#dishes {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+img {
+  height: 300px;
+}
+#menu {
+  width: 200px;
+  /* border: 1px solid black; */
+  margin: auto;
+  font-size: 30px;
+}
+#count {
+  border: 1px solid black;
+  width: 20px;
+  margin-left: auto;
+}
+p {
+  margin-left: auto;
+}
